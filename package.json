@@ -11,7 +11,7 @@
   "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "mocha-simple-html-reporter": "^1.1.0",
     "protractor": "^5.4.2",
     "requst": "0.0.1-security",
